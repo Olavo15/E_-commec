@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("./fonts/Merriweather/Merriweather-Black.ttf") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MerriweatherItalic";
+  src: url("./fonts/Merriweather/Merriweather-italic.ttf") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "MerriMerriweatherBLackItalic";
+  src: url("./fonts/Merriweather/Merriweather-BlackItalic.ttf") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
